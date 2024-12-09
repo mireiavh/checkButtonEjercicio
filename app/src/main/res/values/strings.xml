@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">checkButtonEjercicio</string>
+    <string name="principalText">Selecciona las frutas que deseas comer:</string>
+    <string name="apple">Manzana</string>
+    <string name="banana">Platano</string>
+    <string name="orange">Naranja</string>
+    <string name="pineapple">Piña</string>
+    <string name="eat">comer</string>
+</resources>
